@@ -1,0 +1,60 @@
+ *** ALERTA [05/04/2025 20:44:17] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+--------------------------------------------------------------------------------
+
+ *** ALERTA [05/04/2025 20:44:25] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+--------------------------------------------------------------------------------
+
+ *** ALERTA [05/04/2025 20:44:33] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+--------------------------------------------------------------------------------
+
+ *** ALERTA [05/04/2025 20:44:39] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+--------------------------------------------------------------------------------
+
+ *** ALERTA [05/04/2025 20:47:34] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+--------------------------------------------------------------------------------
+
+ *** ALERTA [05/04/2025 20:52:32] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+--------------------------------------------------------------------------------
+

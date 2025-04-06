@@ -1,0 +1,3170 @@
+ *** ALERTA [05/04/2025 11:21:06] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:23:08] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:26:13] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:32:13] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:32:17] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:38:11] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:44:16] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:46:15] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:50:13] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:53:17] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:56:15] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:56:21] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:58:08] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:58:21] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:58:30] - HOST: 192.168.5.1 - Perda de pacote detectada! ***
+
+Disparando 192.168.5.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 192.168.5.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:59:29] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:59:43] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:59:49] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 11:59:59] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:02:17] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:02:21] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:05:23] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:05:52] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:06:00] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:06:04] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:11:56] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:12:03] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:12:17] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:12:32] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:14:17] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:14:21] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:16:36] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:18:07] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:21:38] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:23:17] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:23:23] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:23:29] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:24:25] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:24:29] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:24:40] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:24:46] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:24:51] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:25:10] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:25:19] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:25:24] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:26:32] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:29:19] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:29:25] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:29:35] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:30:55] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:35:23] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:35:27] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:02] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:12] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:19] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:23] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:34] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:38] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:49] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:37:57] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:38:06] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:38:20] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:38:26] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:38:32] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:38:45] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:41:27] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:41:46] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:43:35] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:43:47] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:43:58] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:44:03] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:44:16] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:44:21] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:47:23] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:47:43] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:49:55] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:50:00] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:50:05] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:50:23] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:50:39] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:50:43] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:53:23] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:53:27] - HOST: 192.168.5.1 - Perda de pacote detectada! ***
+
+Disparando 192.168.5.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 192.168.5.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:53:31] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:59:13] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 12:59:30] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:05:29] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:11:31] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:11:36] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:11:40] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:14:36] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:15:44] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:21:27] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:21:31] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:21:35] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:27:29] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:27:35] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:28:16] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:33:28] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:39:30] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:45:31] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:51:45] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:57:39] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 13:59:55] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:03:33] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:07:30] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:15:36] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:17:28] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:21:34] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:21:38] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:21:42] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:27:35] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:27:39] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:27:45] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:33:39] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:39:38] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:57:40] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 14:57:45] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:03:43] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:04:00] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:09:43] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:21:44] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:26:16] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:26:21] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:27:47] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:27:51] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:33:47] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:38:52] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:39:47] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:45:46] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:48:18] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:54:15] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 15:57:54] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:03:27] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:10:33] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:15:51] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:21:57] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:27:53] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:28:02] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:28:32] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:39:59] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:45:59] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 16:57:58] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:03:58] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:09:59] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:10:03] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:10:07] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:15:59] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:16:03] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:16:08] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:22:09] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:24:38] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:28:03] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:28:10] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:35:20] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:40:06] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 17:58:15] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:04:09] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:04:13] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:15:18] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:15:39] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:16:08] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:16:12] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:16:17] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:17:37] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:18:23] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:22:11] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:24:59] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:28:12] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:28:16] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:28:20] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:28:24] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:29:46] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:30:02] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:30:06] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:31:17] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:34:12] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:34:17] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:37:52] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:40:16] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:40:24] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:43:33] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:45:37] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:46:14] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:50:08] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:50:12] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:50:16] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:50:20] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:50:24] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:50:28] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:52:15] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:52:50] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:58:16] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:58:20] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:58:24] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 18:58:28] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:01:29] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:03:45] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:04:35] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:07:00] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:07:42] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:07:46] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:09:15] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:09:39] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:10:23] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:10:27] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:10:54] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:11:43] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:12:28] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:13:55] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:14:03] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:16:18] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:16:23] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:16:27] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:17:11] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:19:02] - HOST: 192.168.5.1 - Perda de pacote detectada! ***
+
+Disparando 192.168.5.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 192.168.5.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:20:20] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:21:05] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:22:21] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:22:25] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:23:23] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:23:28] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:23:40] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:25:19] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:26:39] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:28:22] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:28:26] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:28:30] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:31:34] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:31:55] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:34:41] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:37:07] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:37:42] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:37:51] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:37:58] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:38:57] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:40:24] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:40:28] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:40:38] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:40:42] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:40:52] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:40:58] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:41:13] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:41:32] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:41:37] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:41:43] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:41:49] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:42:10] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:42:38] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:43:29] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:43:53] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:44:02] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:44:08] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:44:42] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:44:52] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:45:26] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:45:52] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:46:13] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:46:17] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:46:23] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:46:27] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:46:45] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:47:11] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:47:16] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:48:12] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:50:26] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:51:33] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:52:13] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:53:33] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:54:22] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:55:07] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:55:26] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:56:43] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:58:09] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:58:28] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:58:34] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:59:51] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 19:59:58] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:00:16] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:00:34] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:02:59] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:04:29] - HOST: 1.0.0.1 - Perda de pacote detectada! ***
+
+Disparando 1.0.0.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.0.0.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:04:33] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:05:02] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:06:04] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:08:24] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:09:29] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:10:26] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:10:31] - HOST: 8.8.8.8 - Perda de pacote detectada! ***
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:10:47] - HOST: 208.67.220.220 - Perda de pacote detectada! ***
+
+Disparando 208.67.220.220 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.220.220:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:14:55] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:18:08] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:20:30] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:20:34] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:22:32] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:22:53] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:25:10] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:25:31] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:28:43] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:30:35] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:31:44] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:32:32] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:32:37] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:32:41] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:33:11] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:35:02] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:38:02] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:38:06] - HOST: 9.9.9.9 - Perda de pacote detectada! ***
+
+Disparando 9.9.9.9 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 9.9.9.9:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:38:30] - HOST: 208.67.222.222 - Perda de pacote detectada! ***
+
+Disparando 208.67.222.222 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 208.67.222.222:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:38:37] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:41:05] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:41:14] - HOST: 4.2.2.2 - Perda de pacote detectada! ***
+
+Disparando 4.2.2.2 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 4.2.2.2:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:44:26] - HOST: 8.8.4.4 - Perda de pacote detectada! ***
+
+Disparando 8.8.4.4 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.8.4.4:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:44:30] - HOST: 1.1.1.1 - Perda de pacote detectada! ***
+
+Disparando 1.1.1.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 1.1.1.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:44:35] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:47:26] - HOST: 8.26.56.26 - Perda de pacote detectada! ***
+
+Disparando 8.26.56.26 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 8.26.56.26:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
+ *** ALERTA [05/04/2025 20:47:35] - HOST: 156.154.70.1 - Perda de pacote detectada! ***
+
+Disparando 156.154.70.1 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+
+Estatsticas do Ping para 156.154.70.1:
+    Pacotes: Enviados = 1, Recebidos = 0, Perdidos = 1 (100% de
+             perda),
+----------------------------------------
+
